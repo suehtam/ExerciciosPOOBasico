@@ -1,6 +1,8 @@
-/*3. Cálculo de Idade
+/*
+3. Cálculo de Idade
 Peça ao usuário o ano de nascimento, calcule a idade com base no ano atual (ex: 2025) e
-exiba o resultado no console.*/
+exiba o resultado no console.
+*/
 import java.util.Scanner;
 class Exercicio3
 {
