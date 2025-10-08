@@ -1,6 +1,8 @@
-/*1. Saudação com Scanner
+/*
+1. Saudação com Scanner
 Peça ao usuário que digite seu nome e exiba:
-Olá, [nome]!*/
+Olá, [nome]!
+*/
 import java.util.Scanner;
 class Exercicio1 
 {
