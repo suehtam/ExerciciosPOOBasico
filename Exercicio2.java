@@ -1,5 +1,7 @@
-/*2. Média de Três Números
-Solicite três números e imprima a média aritmética.*/
+/*
+2. Média de Três Números
+Solicite três números e imprima a média aritmética.
+*/
 import java.util.Scanner;
 class Exercicio2
 {
