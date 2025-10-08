@@ -1,8 +1,8 @@
-import java.util.Scanner;
 /*
 5. Operações com Dois Números
 Solicite dois números inteiros e mostre: soma, subtração, multiplicação e divisão.
 */
+import java.util.Scanner;
 class Exercicio5
 {
     public static void main(String[] args) 
