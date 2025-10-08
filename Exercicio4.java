@@ -1,4 +1,5 @@
-/*4. Conversão de Celsius para Fahrenheit
+/*
+4. Conversão de Celsius para Fahrenheit
 Converta a temperatura com a fórmula:
 F = (C × 9/5) + 32
 */
