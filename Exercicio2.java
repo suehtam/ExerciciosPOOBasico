@@ -1,6 +1,6 @@
-import java.util.Scanner;
 /*2. Média de Três Números
 Solicite três números e imprima a média aritmética.*/
+import java.util.Scanner;
 class Exercicio2
 {
     public static void main(String[] args) 
