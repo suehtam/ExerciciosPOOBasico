@@ -22,7 +22,7 @@ class Exercicio2
         System.out.println("Digite um número: ");
         int numero3 = sc.nextInt(); // Lê o terceiro número inteiro
         // Calcula a média aritmética dos três números
-        double media = (numero1 + numero2 + numero3) / 3;
+        double media = (numero1 + numero2 + numero3) / 3.0;
         // Exibe o resultado da média aritmética
         System.out.println("A média aritmética dos números é: " + media);
     }
