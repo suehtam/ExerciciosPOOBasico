@@ -1,8 +1,8 @@
 /*
-13. Volume de uma Esfera 
-Peça o raio (entre 1.0 e 50.0) e calcule o volume: 
-V = (4/3) × π × r³ 
-Use π = 3.14 e arredonde com 2 casas decimais.
+12. Teorema de Pitágoras 
+Peça os valores dos catetos a e b, e calcule a hipotenusa: 
+hipotenusa = √(a² + b²) 
+Use Math.sqrt() e System.out.printf() com 2 casas decimais.
 */
 import java.util.Scanner;
 class Exercicio12
