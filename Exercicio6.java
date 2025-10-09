@@ -15,6 +15,6 @@ class Exercicio6
         System.out.println("Digite a velocidade média: ");
         int velocidadeMedia = sc.nextInt();
         double tempoViagem = distanciaViagem / velocidadeMedia;
-        System.out.printf("O tempo estimado da viagem foi: %.2f quilômetros por hora", tempoViagem);
+        System.out.printf("O tempo estimado da viagem foi: %.2f  horas", tempoViagem);
     }
 }
