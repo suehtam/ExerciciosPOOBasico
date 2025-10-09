@@ -9,12 +9,12 @@ class Exercicio5
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite um número: ");
-        int numero1 = sc.nextInt();
+        double numero1 = sc.nextDouble();
         System.out.println("Digite um número: ");
-        int numero2 = sc.nextInt();
-        int soma = numero1 + numero2;
-        int subtracao = numero1 - numero2;
-        int multiplicacao = numero1 * numero2;
+        Double numero2 = sc.nextDouble();
+        Double soma = numero1 + numero2;
+        Double subtracao = numero1 - numero2;
+        Double multiplicacao = numero1 * numero2;
         double divisao = numero1 / numero2;
         System.out.println("A soma dos números é: " + soma);
         System.out.println("A subtração dos números é: " + subtracao);
