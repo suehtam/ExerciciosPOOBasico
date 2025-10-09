@@ -5,7 +5,7 @@ V = (4/3) × π × r³
 Use π = 3.14 e arredonde com 2 casas decimais.
 */
 import java.util.Scanner;
-class Exercicio13
+class Exercicio12
 {
     public static void main(String[] args) 
     {
