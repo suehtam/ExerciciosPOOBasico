@@ -12,7 +12,7 @@ class Exercicio13
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite o raio entre 1.0 e 50.0 ");
         double raio = sc.nextDouble();
-        double volume = (4.0 / 3) * Math.PI * Math.pow(raio, 3);
+        double volume = (4.0 / 3.0) * Math.PI * Math.pow(raio, 3);
         System.out.printf("O volume da esfera é: %.2f", volume);
     }
 }
