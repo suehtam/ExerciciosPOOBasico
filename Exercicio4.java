@@ -11,7 +11,7 @@ class Exercicio4
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite a temperatura em Celsius: ");
         int temperaturaCelsius = sc.nextInt();
-        double temperaturaFahrenheit = ((temperaturaCelsius * (9 / 5)) + 32 );
+        double temperaturaFahrenheit = ((temperaturaCelsius * (9.0 / 5)) + 32 );
         System.out.println("A temperatura em Fahrenheit é: " + temperaturaFahrenheit);
     }
 }
